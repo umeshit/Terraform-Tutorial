@@ -1,6 +1,6 @@
 # Terraform-Tutorial
 
-![](https://github.com/easyawslearn/Terraform-Tutorial/workflows/terraform-tutorials-ci/badge.svg)
+![](https://github.com/umeshit/Terraform-Tutorial/workflows/terraform-tutorials-ci/badge.svg)
 
 Terraform Tutorial is the set of examples of [Terraform](https://www.terraform.io/) modules that is building the infrastructure resources 
 on AWS Cloud.
